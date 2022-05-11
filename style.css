@@ -10,6 +10,14 @@ body {
   margin: 0;
 }
 
-.hero-pictures {
-  display: flex;
+.context-shots {
+  width: 90%;
+}
+
+.hero {
+  display: grid;
+}
+
+.hero-picture {
+  width: min(50%, 300px);
 }
